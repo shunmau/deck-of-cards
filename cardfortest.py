@@ -1,3 +1,5 @@
+# This program is to try with the simplest way to achieve result, just for reference
+
 import random
 
 values = ['Ace', 'Two', 'Three', 'Four', 'Five', 'Six', 'Seven', 'Eight', 'Nine', 'Ten', 'Jack', 'Queen', 'King']
