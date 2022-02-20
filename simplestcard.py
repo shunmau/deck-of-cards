@@ -1,4 +1,4 @@
-# This program is to try with the simplest way to achieve result, just for reference
+# This program is to try with the simplest way to achieve result
 
 import random
 

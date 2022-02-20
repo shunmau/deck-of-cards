@@ -1,4 +1,4 @@
-# Build a deck of cards with Object-Orientated Programming.
+# Build a deck of cards with class.
 import random
 
 
