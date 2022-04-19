@@ -21,8 +21,3 @@ docker pull ghcr.io/shunmau/deckofcards:latest
 docker run ghcr.io/shunmau/deckofcards:latest
 ```
 The output should look something like this: Two of Hearts, Jack of Diamonds
-
-
-We should always run the program in an UAT system first before running in a production system. And to run the prograam in a production system, we should keep logging the activities and write to log file each time the program run, as well as logging any error message. Regularly doing health check is also very important to avoid any problem occur.
-
-I haven't add any test case yet as I am not quite familiar with writing test case and can't think of how to test my code and run them through github actions.
